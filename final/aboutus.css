@@ -1,0 +1,17 @@
+/* .content{
+  width:800px;
+  height:400px;
+color:white;
+font-family: 'Lato', sans-serif;
+font-size: 20px;
+padding:20px;
+background-color: #8CCDEB;
+background-image: linear-gradient(326deg, #8CCDEB 0%, #0F97D6 74%);
+position: relative;
+left: 500px;
+bottom: 200px;
+} */
+.background{
+background-image: "aboutus(1).jpg";
+height:3
+}
