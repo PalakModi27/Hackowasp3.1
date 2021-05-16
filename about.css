@@ -1,0 +1,25 @@
+body{
+    margin:0cm;
+    background-image: url(./Images/aboutus.jpg);
+
+    background-repeat:no-repeat;
+    text-align: center;
+}
+.text{
+    
+    margin:auto;
+    padding-right: 8px;
+    
+    text-align: center;
+    height: auto;
+    width: 700px;
+    position: relative;
+    top:7.5rem ;
+    right: 4.7rem;
+
+    font-size: 1.3rem;
+}
+button{
+    float: left;
+    margin: 0cm;
+}

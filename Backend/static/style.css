@@ -1,0 +1,56 @@
+body{
+  padding: 0%;
+  margin: 0%;
+}
+
+
+
+.inline
+{
+  margin:auto;
+  display: inline;
+}
+
+
+#one{
+  width: fit-content;
+}
+.image{
+  
+  display: inline-block;
+}
+
+.heading{
+  margin:auto;
+  display: inline-block;
+  padding: 150px;
+  line-height: 2;
+text-align: center;
+width: 45%;
+height:auto;
+}
+h1{
+  background-color: #0C96B9;
+  color:white;
+  border-radius: 20px;
+  height: auto;
+  width: auto;
+  text-align: center;
+  
+  font-family: 'Ubuntu', sans-serif;
+
+}
+body{
+  background-color: #ECF6ED;
+}
+h3{
+  font-family: 'Ubuntu', sans-serif;
+}
+.myhealth{
+  color:#F6A19E;
+font-family: 'Dancing Script', cursive;
+text-align: center;
+}
+.one{
+  height: auto;
+}
