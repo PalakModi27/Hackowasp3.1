@@ -1,0 +1,46 @@
+.Symptoms{
+
+    background-color: #b1bfd8;
+    background-image: linear-gradient(315deg, #b1bfd8 0%, #6782b4 74%);
+    border: black 2px solid;
+    margin-left: 10px;
+    margin-left: 10px;
+    padding-left: 60px;
+    padding-top: 60px;
+    border-radius: 10%;
+    height: 510px;
+    position: relative;
+    left: 25rem;
+}
+.Pre-symptoms{
+    
+    background-color: #b1bfd8;
+background-image: linear-gradient(315deg, #b1bfd8 0%, #6782b4 74%);
+    border: black 2px solid;
+    
+    margin-left: 10px;
+    margin-left: 10px;
+    padding-left: 60px;
+    padding-top: 60px;
+    border-radius: 10%;
+    height: 500px;
+}
+.header{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
+body{
+    background-image: url(./Images/form.jpg);
+    font-family: 'KoHo', sans-serif;
+    font-size: 1.5rem;
+    color: black;
+
+}
+.next{
+    text-align: center;
+}
+button{
+    
+    color: black !important;
+}
